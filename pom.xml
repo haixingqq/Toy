@@ -9,5 +9,6 @@
     <module>api</module>
     <module>base</module>
     <module>cart</module>
+    <module>customer</module>
   </modules>
 </project>
